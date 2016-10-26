@@ -1,0 +1,23 @@
+{
+    "polygonSelectionSymbol": {
+        "color": [
+          255,
+          0,
+          0,
+          150
+        ],
+        "outline": {
+          "color": [
+            251,
+            164,
+            93,
+            255
+          ],
+          "width": 1.5,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+    }
+}

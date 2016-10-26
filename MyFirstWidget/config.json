@@ -1,0 +1,5 @@
+{
+  "developerName": "Vik",
+  "serviceUrl": "https://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Demographics/ESRI_Census_USA/MapServer",
+  "layerId": "MyLayer"
+}

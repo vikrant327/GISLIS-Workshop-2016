@@ -1,0 +1,21 @@
+{
+  "name": "DemoWidget",
+  "platform": "HTML",
+  "version": "2.2",
+  "wabVersion": "2.2",
+  "author": "WSB & Associates INC",
+  "description": "",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasStyle": false,
+	"hasStyle":true,
+	"hasConfig":true,
+	"hasUIFile":true,
+	"hasSettingPage":false,
+	"hasSettingUIFile":false,
+	"hasSettingLocale":false,
+	"hasSettingStyle":false,
+	"IsController":false
+  }
+}

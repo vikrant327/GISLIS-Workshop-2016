@@ -1,0 +1,8 @@
+.jimu-widget-PopupInPanel.jimu-widget  .jimu-r-row {
+	border: 1px solid #fff;
+}
+
+.jimu-widget-PopupInPanel.jimu-widget   .attributeName{
+	font-weight:bold;
+	background:lightgrey;
+}
